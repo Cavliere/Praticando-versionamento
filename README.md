@@ -1,0 +1,1 @@
+O Git é um projeto de código aberto maduro e com manutenção ativa.
